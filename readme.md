@@ -24,3 +24,5 @@
 #Tarea 2
 ### Creacion de ramas
 1. ![push and tag](img/nuevaRamaCambio.png)
+### Creacion de ramas
+2. ![añadirArchivoPushMerge](img/añadirArchivoPushMerge.png)
