@@ -30,3 +30,8 @@
 3. ![mergeConflicto](img/mergeConflicto.png)
 ### Conflicto 
 3. ![conflicto](img/conflicto.png)
+### conflictoResuelto 
+4. ![conflictoResuelto](img/conflictoResuelto.png)
+### v02 
+4. ![v02](img/v02.png)
+
