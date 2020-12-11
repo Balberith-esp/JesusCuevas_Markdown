@@ -9,3 +9,18 @@
 * Listado de modulos matriculado
 	1. DAW
 	2. DWES
+
+* Subida de cambios tag v0.1
+	* ![push and tag](img/pushTag.png)
+
+| Nombre | Enlace repo | 
+| -- | -- |
+| Uno | [Enlace 1][1] | 
+| Dos | [Enlace 2][2] | 
+
+[1]:wwww.google.es
+[2]:wwww.google.es
+
+#Tarea 2
+### Creacion de ramas
+* ![push and tag](img/nuevaRamaCambio.png)
