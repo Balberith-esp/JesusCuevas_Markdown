@@ -23,4 +23,4 @@
 
 #Tarea 2
 ### Creacion de ramas
-* ![push and tag](img/nuevaRamaCambio.png)
+1. ![push and tag](img/nuevaRamaCambio.png)
