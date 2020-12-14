@@ -5,7 +5,7 @@
 	* ![Primeros Pasos](img/primerosPasos.PNG)
 	* ![Primer Push](img/PrimerPush.PNG)
 	* ![GitIgnore](img/gitIgnore.PNG)
-	* ![Quitar Elemento Rastreado](img/quitarElementoRastreado.png)
+	* ![Quitar Elemento Rastreado](img/quitarElementoRastreado.PNG)
 * Listado de modulos matriculado
 	1. DAW
 	2. DWES
