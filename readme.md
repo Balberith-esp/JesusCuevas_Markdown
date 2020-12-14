@@ -3,7 +3,7 @@
 * ![Creacion repositorio](img/creaccionRepo.PNG)
 * Subida de cambios al repositorio remoto
 	* ![Primeros Pasos](img/primerosPasos.PNG)
-	* ![Primer Push](img/PrimerPush.PNG)
+	* ![Primer Push](img/primerPush.PNG)
 	* ![GitIgnore](img/gitIgnore.PNG)
 	* ![Quitar Elemento Rastreado](img/quitarElementoRastreado.PNG)
 * Listado de modulos matriculado
